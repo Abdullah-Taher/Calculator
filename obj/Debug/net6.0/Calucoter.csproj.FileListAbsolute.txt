@@ -1,0 +1,15 @@
+F:\visual studio\C#\Calucoter\bin\Debug\net6.0\Calucoter.exe
+F:\visual studio\C#\Calucoter\bin\Debug\net6.0\Calucoter.deps.json
+F:\visual studio\C#\Calucoter\bin\Debug\net6.0\Calucoter.runtimeconfig.json
+F:\visual studio\C#\Calucoter\bin\Debug\net6.0\Calucoter.dll
+F:\visual studio\C#\Calucoter\bin\Debug\net6.0\ref\Calucoter.dll
+F:\visual studio\C#\Calucoter\bin\Debug\net6.0\Calucoter.pdb
+F:\visual studio\C#\Calucoter\obj\Debug\net6.0\Calucoter.csproj.AssemblyReference.cache
+F:\visual studio\C#\Calucoter\obj\Debug\net6.0\Calucoter.GeneratedMSBuildEditorConfig.editorconfig
+F:\visual studio\C#\Calucoter\obj\Debug\net6.0\Calucoter.AssemblyInfoInputs.cache
+F:\visual studio\C#\Calucoter\obj\Debug\net6.0\Calucoter.AssemblyInfo.cs
+F:\visual studio\C#\Calucoter\obj\Debug\net6.0\Calucoter.csproj.CoreCompileInputs.cache
+F:\visual studio\C#\Calucoter\obj\Debug\net6.0\Calucoter.dll
+F:\visual studio\C#\Calucoter\obj\Debug\net6.0\ref\Calucoter.dll
+F:\visual studio\C#\Calucoter\obj\Debug\net6.0\Calucoter.pdb
+F:\visual studio\C#\Calucoter\obj\Debug\net6.0\Calucoter.genruntimeconfig.cache
